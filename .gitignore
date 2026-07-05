@@ -1,0 +1,24 @@
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+
+# IDE folders
+.vscode/
+.idea/
+.settings/
+
+# Eclipse
+.project
+.classpath
+
+# IntelliJ
+*.iml
+
+# NetBeans
+nbproject/private/
+
+# OS files
+Thumbs.db
+.DS_Store
