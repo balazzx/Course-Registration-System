@@ -1,0 +1,146 @@
+# 📚 Course Registration System
+
+A **Java Swing-based Course Registration System** that enables students to register for courses while allowing administrators to manage course details efficiently. The application uses **JDBC** for database connectivity and **MySQL** as the backend database.
+
+---
+
+## 🌟 Project Overview
+
+The Course Registration System is designed to simplify the academic course enrollment process. It provides a user-friendly interface for managing students, courses, and registrations while ensuring data is securely stored in a MySQL database.
+
+This project was developed as part of my academic learning to strengthen my knowledge of **Java**, **JDBC**, **MySQL**, and **GUI application development**.
+
+---
+
+## ✨ Features
+
+- 👨‍🎓 Student Registration
+- 📚 Course Enrollment
+- ➕ Add New Courses
+- ✏️ Update Course Details
+- ❌ Delete Courses
+- 🔍 View Available Courses
+- 🗂️ Student Course Management
+- 🗄️ MySQL Database Integration
+- ✅ Input Validation
+- 🖥️ User-Friendly Java Swing Interface
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Java | Core Programming Language |
+| Java Swing | Graphical User Interface |
+| JDBC | Database Connectivity |
+| MySQL | Database Management |
+| JavaMail API | Email Functionality |
+
+---
+
+## 📂 Project Structure
+
+```
+Course-Registration-System/
+│── CourseSystemJDBC.java
+│── DBConnection.java
+│── mysql-connector-j-9.6.0.jar
+│── javax.mail-1.6.2.jar
+│── activation-1.1.1.jar
+│── README.md
+│── .gitignore
+```
+
+---
+
+## ⚙️ Prerequisites
+
+Before running this project, make sure you have:
+
+- Java JDK 8 or above
+- MySQL Server
+- MySQL Connector/J
+- Java IDE (Eclipse, IntelliJ IDEA, NetBeans, or VS Code)
+
+---
+
+## 🚀 Installation & Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/balazzx/Course-Registration-System.git
+```
+
+2. Open the project in your preferred Java IDE.
+
+3. Create the required MySQL database.
+
+4. Update the database credentials in `DBConnection.java`.
+
+5. Add the required JDBC and JavaMail JAR files (if not already included).
+
+6. Run `CourseSystemJDBC.java`.
+
+---
+
+## 📸 Application Screenshots
+
+> Screenshots will be added soon.
+
+Suggested screenshots:
+
+- Login Screen
+- Student Registration
+- Course Registration
+- Course Management
+- Database Records
+
+---
+
+## 🎯 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Java Swing GUI Development
+- JDBC Database Connectivity
+- CRUD Operations
+- MySQL Database Management
+- Event Handling
+- Object-Oriented Programming (OOP)
+
+---
+
+## 🔮 Future Enhancements
+
+- User Authentication
+- Role-Based Access (Admin & Student)
+- Course Search & Filtering
+- Report Generation
+- Export Data to PDF/Excel
+- Improved User Interface
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome. Feel free to fork this repository and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is developed for educational and learning purposes.
+
+---
+
+## 👨‍💻 Author
+
+**BALASUBRAMANIYAM S**
+
+- GitHub: https://github.com/balazzx
+
+---
+
+⭐ **If you found this project useful, consider giving it a Star!**
